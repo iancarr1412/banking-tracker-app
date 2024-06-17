@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <main className="text-center">
       <div>
-        <h1 className="my-6 text-2xl">Home Page</h1>
+        <h1 className="my-6 text-2xl">Home Page 17/06/2024</h1>
       </div>
       <div className="flex justify-center w-full min-h-screen bg-muted/40">
         <div>
